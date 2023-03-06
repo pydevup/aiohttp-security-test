@@ -1,0 +1,7 @@
+tortoise-orm==0.19.2
+aerich==0.7.1
+asyncpg==0.27.0
+aiohttp==3.8.3
+aiohttp_security[session]==0.4.0
+aioredis[hiredis]==2.0.1
+passlib==1.7.4
